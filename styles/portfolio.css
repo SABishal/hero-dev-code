@@ -74,7 +74,7 @@ nav .menu a{
 }
 
 #banner{
-    margin: 47px 38px 230px 215px;
+    margin: 47px 38px 0px 230px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -116,7 +116,7 @@ nav .menu a{
 
 #about .about-container{
     width: 71%;
-    min-width: 1140px;
+    max-width: 1140px;
     margin: 0 auto;
     text-align: center;
     background-color: #FFF8F3;
